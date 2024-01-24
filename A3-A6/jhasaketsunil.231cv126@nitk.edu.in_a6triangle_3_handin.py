@@ -62,4 +62,4 @@ def is_degenerate(side1, side2, side3):
         return False
     else:
         raise ValueError('Side cannot be negative.')
-print(is_degenerate())
+

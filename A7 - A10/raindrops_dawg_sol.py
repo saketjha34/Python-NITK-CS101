@@ -17,5 +17,5 @@ def convert(number):
     else:
         result = ' '.join(empty_list)
         return result
-print(convert(19))   
+
 
