@@ -13,7 +13,7 @@ def convert(number):
             has_factors = True
 
     if not has_factors:
-        return number
+        return str(number)
     else:
         result = ' '.join(empty_list)
         return result
